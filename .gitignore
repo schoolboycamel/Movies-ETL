@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Movies-ETL/config.py
 # C extensions
 *.so
 
